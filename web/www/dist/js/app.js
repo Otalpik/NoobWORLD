@@ -2117,8 +2117,10 @@ _this2.userPublic.color_cross.match(/gffgfghjghj/g)) {
             [{ type: "text", text: "Ok, here goes, {NAME}." }],
             [{ type: "text", text: "{NAME} used /joke. Let's tell a joke." }],
             [{ type: "text", text: "Hey, everyone! It's time for a joke!" }],
-            [{ type: "text", text: "Prepare for something Siobhan never heard of, {NAME}." }],
-            [{ type: "text", text: "I'm not entertaining you." }],
+            [
+                { type: "text", text: "Prepare for something Siobhan never heard of, {NAME}." },
+                { type: "text", text: "I'm not entertaining you." },
+            },
             [
                 { type: "text", text: "Wanna hear a joke?" },
                 { type: "text", text: "No?" },
