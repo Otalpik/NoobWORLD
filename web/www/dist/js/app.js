@@ -2117,6 +2117,8 @@ _this2.userPublic.color_cross.match(/gffgfghjghj/g)) {
             [{ type: "text", text: "Ok, here goes, {NAME}." }],
             [{ type: "text", text: "{NAME} used /joke. Let's tell a joke." }],
             [{ type: "text", text: "Hey, everyone! It's time for a joke!" }],
+            [{ type: "text", text: "Prepare for something Siobhan never heard of, {NAME}." }],
+            [{ type: "text", text: "I'm not entertaining you." }],
             [
                 { type: "text", text: "Wanna hear a joke?" },
                 { type: "text", text: "No?" },
@@ -2176,6 +2178,10 @@ _this2.userPublic.color_cross.match(/gffgfghjghj/g)) {
                 { type: "text", text: "Because we knead it." },
             ],
             [
+                { type: "text", text: "Why do you hate Jews?" },
+                { type: "text", text: "Because Jews is bad!" },
+            ],
+            [
                 { type: "text", text: "What is a cow that eats grass?" },
                 { type: "text", text: "Crass." },
                 { type: "text", text: "I'm a comedic genius, I know." },
@@ -2225,7 +2231,12 @@ _this2.userPublic.color_cross.match(/gffgfghjghj/g)) {
             ],
             [
                 { type: "anim", anim: "earth_fwd", ticks: 15 },
-                { type: "text", text: "Did you also know that Planet is a chatting website? Even if it has 'Istoselidasoft' in the logo, that means it is a website application. BonziWORLD is a chatting website, and you should use it." },
+                { type: "text", text: "Did you know that Seamus is now Siobhan, and he makes BonziWORLD Revived?" },
+                { type: "anim", anim: "earth_back", ticks: 15 },
+            ],
+            [
+                { type: "anim", anim: "earth_fwd", ticks: 15 },
+                { type: "text", text: "Fun Fact: Jews will not go to heaven. They will go to hell instead." },
                 { type: "anim", anim: "earth_back", ticks: 15 },
             ],
         ],
