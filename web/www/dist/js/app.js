@@ -2120,7 +2120,7 @@ _this2.userPublic.color_cross.match(/gffgfghjghj/g)) {
             [
                 { type: "text", text: "Prepare for something Siobhan never heard of, {NAME}." },
                 { type: "text", text: "I'm not entertaining you." },
-            },
+            ],
             [
                 { type: "text", text: "Wanna hear a joke?" },
                 { type: "text", text: "No?" },
