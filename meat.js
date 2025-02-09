@@ -648,6 +648,7 @@ var stickers = {
     flatearth: "this is true, and you cant change my opinion loser",
     swag: "look at my swag",
     topjej: "toppest jej",
+    topoof: "toppest oof",
     cyan: "cyan is yellow",
     no: "fuck no",
     bye: "bye i'm fucking leaving",
