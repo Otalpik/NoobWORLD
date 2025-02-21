@@ -4093,3 +4093,8 @@
 {"guid":"d5df482e6d4bc5ca","ip":"::ffff:127.92.31.228","level":"info","message":"connect"}
 {"guid":"d5df482e6d4bc5ca","ip":"::ffff:127.92.31.228","level":"info","message":"disconnect"}
 {"guid":"5adb6a80de92c132","ip":"::ffff:127.92.31.228","level":"info","message":"connect"}
+{"guid":"f19e33641b4fba43","ip":"::ffff:127.0.0.1","level":"info","message":"connect"}
+{"guid":"f19e33641b4fba43","ip":"::ffff:127.0.0.1","level":"info","message":"disconnect"}
+{"guid":"920cece3ed50e534","ip":"::ffff:127.0.0.1","level":"info","message":"connect"}
+{"guid":"e04c9ce06325819d","ip":"::1","level":"info","message":"connect"}
+{"guid":"e04c9ce06325819d","ip":"::1","level":"info","message":"disconnect"}

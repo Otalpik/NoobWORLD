@@ -179,17 +179,14 @@
             <div id="room_info" class="log-minimized">
                 Room ID - <span class="room_id">???</span><br />
                 <span id="room_public" class="no_selection">This room is public.</span><span id="room_private" class="no_selection">This room is private.</span>
+                <br>
+                <a href='#' onclick='useSapi5 = !useSapi5'>Toggle SAPI5</a>
+                <br>
+                <a href='#' onclick='$("#page_sapi5_settings").show()'>SAPI5 Settings</a>
                 <span id="room_owner" class="no_selection">
                     <br />
                     You are the owner of this room.
                 </span>
-               <br>
-               <big>
-               <a href="javascript:espeaktts = !espeaktts">Enable/Disable eSpeak</a>
-               <br>Select a voice:</big>
-               <br>
-               <select name="voice" id="voice"></select>
-               <br>
             </div>
 		</div>
             <canvas id="bonzi_canvas" width="1020" height="721.6"></canvas>
